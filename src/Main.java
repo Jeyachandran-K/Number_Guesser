@@ -3,4 +3,5 @@
 void main() {
     GuessGame guessGame= new GuessGame();
     System.out.println(guessGame.getTargetNumber());
+    guessGame.start();
 }
