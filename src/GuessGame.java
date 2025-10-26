@@ -5,7 +5,7 @@ public class GuessGame {
     Scanner scanner = new Scanner(System.in);
     public enum GameState{
         play,
-        end;
+        end
     }
 
 
